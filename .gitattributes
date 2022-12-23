@@ -1,0 +1,4 @@
+kobart/kobart_summary filter=lfs diff=lfs merge=lfs -text
+kobart_summary filter=lfs diff=lfs merge=lfs -text
+kobart_summary/config.json filter=lfs diff=lfs merge=lfs -text
+kobart_summary/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
